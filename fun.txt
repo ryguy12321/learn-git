@@ -1,1 +1,2 @@
 “Hello world!” - said everyone, always
+This is fun when you actually know what you are doing!
